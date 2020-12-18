@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+.continer{
+    margin-top: 100px;
+    margin-left: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   width: 100px;
+   height: 100px;
+}
